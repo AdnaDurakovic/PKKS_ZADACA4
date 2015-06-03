@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LIBU</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">User</string>
+    <string name="title_activity_list_of_books">ListOfBooksActivity</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="title_activity_book_details">BookDetailsActivity</string>
+</resources>
